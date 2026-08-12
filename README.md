@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de projetos práticos focados em desenvolvimento w
 
 Abaixo estão os links para visualizar os projetos em funcionamento:
 
-* [📱 Projeto Site Android](https://ezequiel14carvalho.github.io/html-css/site-android/)
+* [📱 Projeto Site Android](https://ezequiel14carvalho.github.io/html-css/site-android/index.html)
 * [📖 Projeto Cordel Moderno](https://ezequiel14carvalho.github.io/html-css/site-cordel/)
 * [🔐 Projeto Tela de Login](https://ezequiel14carvalho.github.io/html-css/site-login/)
 * [👨‍💻 Projeto Portfólio](https://ezequiel14carvalho.github.io/html-css/site-portfolio/)
